@@ -1,6 +1,5 @@
 # Hi there 👋, Khalid here AKA Leed!.
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=777leed&show_icons=true&theme=radical"/>
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=777leed&layout=compact"/>
 <br>
 <br>
